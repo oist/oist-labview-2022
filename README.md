@@ -1,4 +1,4 @@
-# oist-labview-2022
+# Mini Course: LabVIEW @OIST
 
 Course details (Only accessible for OISTers) => https://groups.oist.jp/grad/skill-pill-labview
 
