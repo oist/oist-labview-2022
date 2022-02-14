@@ -1,5 +1,14 @@
 # oist-labview-2022
 
+Course details (Only accessible for OISTers) => https://groups.oist.jp/grad/skill-pill-labview
+
+Period: 2022/02/08 - 2022/02/17
+
+Teachers 
+* Christian Butcher (Chakraborty Unit, Technician)
+* Jesse Everett (Sile Nic Unit, Postdoc)
+* Tomoyuki Mano (ReiterUnit, Postdoc)
+
 ## Slides
 
 * [Day3](slides/day3.pdf)
