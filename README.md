@@ -11,6 +11,7 @@ Teachers
 
 ## Slides
 
+* [Day1](slides/day1.pdf)
 * [Day3](slides/day3.pdf)
 
 ## Code
